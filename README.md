@@ -27,11 +27,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/kazepis/radio-guru">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Radio Guru</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -173,42 +173,30 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Nick Kazepis - [@nkazepis](https://twitter.com/nkazepis) - nick dot kazepis at gmail dot com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/kazepis/radio-guru](https://github.com/kazepis/radio-guru)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
+* [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) for providing this awesome readme template
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/kazepis/radio-guru.svg?style=for-the-badge
+[contributors-url]: https://github.com/kazepis/radio-guru/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kazepis/radio-guru.svg?style=for-the-badge
+[forks-url]: https://github.com/kazepis/radio-guru/network/members
+[stars-shield]: https://img.shields.io/github/stars/kazepis/radio-guru.svg?style=for-the-badge
+[stars-url]: https://github.com/kazepis/radio-guru/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kazepis/radio-guru.svg?style=for-the-badge
+[issues-url]: https://github.com/kazepis/radio-guru/issues
+[license-shield]: https://img.shields.io/github/license/kazepis/radio-guru.svg?style=for-the-badge
+[license-url]: https://github.com/kazepis/radio-guru/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/kazepis
 [product-screenshot]: images/screenshot.png
