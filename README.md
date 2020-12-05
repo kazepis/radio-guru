@@ -173,15 +173,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Nick Kazepis - [@nkazepis](https://twitter.com/nkazepis) - nick dot kazepis at gmail dot com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/kazepis/radio-guru](https://github.com/kazepis/radio-guru)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) for providing this awesome readme template
 
 
 
