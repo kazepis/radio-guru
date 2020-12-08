@@ -111,7 +111,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* [Visual Studio](https://visualstudio.microsoft.com/) (pending)
+* [Visual Studio](https://visualstudio.microsoft.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [NodeJs](https://nodejs.org/en/)
 * npm
@@ -137,8 +137,8 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    ng serve --open --port 4200
    ```
-4. Open the backend microservice in Visual Studio (pending)
-5. Run the backend (pending)
+4. Open the backend radio-guru-microservice in Visual Studio
+5. Run the radio-guru-microservice backend
 
 
 <!-- USAGE EXAMPLES -->
@@ -161,6 +161,7 @@ See the [open issues](https://github.com/kazepis/radio-guru/issues) for a list o
 ## Release Notes / Changelog
 
 **08 Dec 2020**
+* Created new .net core 3.1 microservice
 * README updated
 
 **05 Dec 2020**
