@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radio-guru-microservice", "radio-guru-microservice\radio-guru-microservice.csproj", "{A4B3BF9F-F99D-492B-B06D-F3BB85718E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4B3BF9F-F99D-492B-B06D-F3BB85718E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B3BF9F-F99D-492B-B06D-F3BB85718E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B3BF9F-F99D-492B-B06D-F3BB85718E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B3BF9F-F99D-492B-B06D-F3BB85718E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D4EC74-40BA-4237-9F63-B4C1417642A8}
+	EndGlobalSection
+EndGlobal
