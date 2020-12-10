@@ -22,7 +22,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# DISCLAIMER: This a work in progress which began in early December 2020
+# DISCLAIMER: This is a work in progress which began in early December 2020. Will try to reach demo stage as soon as possible
 
 <!-- PROJECT LOGO -->
 <br />
