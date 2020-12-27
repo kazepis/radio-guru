@@ -1,0 +1,13 @@
+<div class="wrapper">
+  <div class="image-overlay" [style.backgroundImage]="this.overlayUrl"></div>
+  <div class="dark-overlay"></div>
+  <div class="content">
+    <img [src]="this.song.albumArt" />
+    <div class="details">
+      <div class="title">{{ this.song.title }}</div>
+      <div class="artist">{{ this.song.artist }}</div>
+      <div class="album">{{ this.song.album }}</div>
+    </div>
+  </div>
+  <div class="timestamp">{{ this.song.timestamp | date: 'HH:mm' }}</div>
+</div>

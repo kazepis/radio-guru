@@ -1,4 +1,5 @@
 export class Song {
+  timestamp!: Date;
   title!: string;
   artist: string | undefined;
   album: string | undefined;
