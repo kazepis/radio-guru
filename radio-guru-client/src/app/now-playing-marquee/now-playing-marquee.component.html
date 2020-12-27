@@ -1,0 +1,12 @@
+<div class="marquee-content" *ngFor="let item of this.duplicate">
+  <span class="text-muted">Now Playing: </span>
+  <span class="title">"{{ this.song.title }}"</span>
+  <span *ngIf="this.song.artist">
+    <span class="text-muted"> by </span>
+    <span class="artist">{{ this.song.artist }}</span>
+  </span>
+  <span *ngIf="this.song.album">
+    <span class="text-muted"> from the album </span>
+    <span class="album">{{ this.song.album }}</span>
+  </span>
+</div>

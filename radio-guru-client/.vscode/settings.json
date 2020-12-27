@@ -1,0 +1,42 @@
+{
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "prettier.printWidth": 100,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.useTabs": false,
+
+  // The number of spaces a tab is equal to. This setting is overriden
+  // based on the file contents when `editor.detectIndentation` is true.
+  "editor.tabSize": 2,
+  // Insert spaces when pressing Tab. This setting is overriden
+  // based on the file contents when `editor.detectIndentation` is true.
+  "editor.insertSpaces": true,
+  // When opening a file, `editor.tabSize` and `editor.insertSpaces`
+  // will be detected based on the file contents. Set to false to keep
+  // the values you've explicitly set, above.
+  "editor.detectIndentation": false,
+  "editor.codeLens": false,
+  "editor.renderWhitespace": "all",
+  "editor.letterSpacing": 0,
+  "editor.wordWrap": "off",
+  "editor.renderControlCharacters": true,
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/*.js": {
+      "when": "$(basename).ts"
+    },
+    "**/*.js.map": {
+      "when": "$(basename)"
+    }
+  },
+  "files.defaultLanguage": "typescript",
+  "files.trimTrailingWhitespace": true,
+
+  "typescriptHero.imports.organizeOnSave": true,
+
+  "html.format.maxPreserveNewLines": 1,
+  "editor.formatOnSave": true
+}
