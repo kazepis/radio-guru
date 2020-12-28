@@ -160,6 +160,11 @@ See the [open issues](https://github.com/kazepis/radio-guru/issues) for a list o
 
 <!-- RELEASE NOTES -->
 ## Release Notes / Changelog
+**27 Dec 2020**
+* Created the navbar
+* Added a now playing marquee
+* Added a css/html template for last played songs and relative models
+* Updated screenshot
 
 **08 Dec 2020**
 * Created new .net core 3.1 microservice
